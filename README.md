@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Satyam%20Srivastav&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20%7C%20System%20Design&descAlignY=60&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Satyam+Srivastav;Backend+Developer;MERN+Stack+Developer;DSA+%7C+System+Design;Building+Scalable+Applications;Open+to+SDE+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Satyam+Srivastav;MERN+Stack+Developer;DSA+%7C+System+Design;Building+Scalable+Applications;Open+to+SDE+Opportunities" />
 </p>
 
 <p align="center">

@@ -128,7 +128,7 @@ Resume upload and parsing system for extracting skills, education, projects and 
   <a href="https://leetcode.com/u/satyam_code_wins/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://linkedin.com/satyam-srivastav07">
+  <a href="https://www.linkedin.com/in/satyam-srivastav07/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
